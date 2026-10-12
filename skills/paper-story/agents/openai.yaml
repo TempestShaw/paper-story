@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Story"
+  short_description: "Build research arguments grounded in evidence"
+  default_prompt: "Use $paper-story to diagnose my research claim and design the evidence needed for a defensible paper."
